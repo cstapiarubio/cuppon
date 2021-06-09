@@ -1,0 +1,92 @@
+*{
+    margin:0;
+    padding:0;
+    border:0;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.card-body a{
+    align-self: flex-end;
+}
+
+h5{
+    font-size:20px;
+    font-weight: 300;
+    text-align: left;
+    color: #212529;
+
+}
+
+form button{
+    font-size:16x;
+    font-weight: 500;
+    text-align: left;
+    color: #212529; 
+}
+
+.card p:first-child, .card a:first-child, form input{
+    font-size: 16px;
+    text-align: left;
+    color: #707070;
+    font-weight: 300;
+}
+
+.card p:last-child{
+    font-size: 13px;
+    text-align: left;
+    color: #707070;
+    font-weight: 300;
+}
+
+.card a:last-child{
+    font-size:20px;
+    font-weight: 500;
+    text-align: right;
+    color: #28A745;
+}
+
+.enlace{
+    padding-left: 80%;
+}
+
+nav img{
+    width:20%;
+}
+
+h1{
+    font-size: 21px;
+    font-weight: 500;
+    text-align:center;
+}
+
+form, nav{
+    background-color: #28A745;
+}
+
+form button{
+    margin-left:47%;
+}
+
+form div{
+    width:30%;
+    text-align:center;
+    margin: 0 auto;
+}
+
+footer p{
+    color:#707070;
+    font-size: 16px;
+    font-weight: 300;
+    text-align: center;
+}
+
+footer img{
+    width: 10%;
+   margin-left: 45%;
+}
+
+
+
